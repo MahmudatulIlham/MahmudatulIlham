@@ -7,7 +7,7 @@
 - Jenis kelamin          : Laki-laki
 - Agama                  : Islam
 - Kewarganegaraan        : Indonesia
-- Email                  : mahmudtaulilham@gmail.com
+- Email                  : mahmudatulilham@gmail.com
 - Hoby                   : Olahraga | Game
 
 ## Education:
